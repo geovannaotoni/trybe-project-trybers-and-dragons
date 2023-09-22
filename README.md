@@ -1,4 +1,4 @@
-# Trybers And Dragons - POO, SOLID e TypeScript.
+# Trybers And Dragons - POO, SOLID e TypeScript
 Este projeto consiste na criação de uma estrutura de jogo RPG (Role Playing Game), através dos princípios da Programação Orientada a Objetos (POO) com linguagem TypeScript.
 
 ## :computer: Visualize este projeto:
